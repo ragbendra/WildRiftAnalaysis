@@ -1,0 +1,11 @@
+# Ignore unnecessary system files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore specific directories
+node_modules/
+__pycache__/
+.vscode/
+.idea/
